@@ -1,1 +1,2 @@
 EndoMedCLIP
+Segmentation Grounded EndoCLIP
