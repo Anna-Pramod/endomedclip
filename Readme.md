@@ -1,4 +1,4 @@
-Segmentation Grounded EndoCLIP
+Segmentation Guided EndoCLIP Foundation Model
 
 ```bash
 ENDOMEDCLIP/
